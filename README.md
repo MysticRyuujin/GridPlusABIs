@@ -34,4 +34,5 @@ My Collection of GridPlus ABIs
 ## Polygon Contracts Included
 ```
 0x0769fd68dFb93167989C6f7254cd0D766Fb2841F  SushiSwap Yield Farming
+0x90249ed4d69D70E709fFCd8beE2c5A566f65dADE  Paraswap
 ```
