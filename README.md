@@ -29,6 +29,11 @@ My Collection of GridPlus ABIs
 	
 0x34CfAC646f301356fAa8B21e94227e3583Fe3F5F	Gnosis Safe: Mastercopy 1.1.1
 0xECf0bdB7B3F349AbfD68C3563678124c5e8aaea3	Kyber (KNC) Staking
+
+0x11111112542D85B3EF69AE05771c2dCCff4fAa26  1inch (V3)
+0x0000000000004946c0e9F43F4Dee607b0eF1fA1c  1inch (ChiToken)
+0x111111125434b319222CdBf8C261674aDB56F3ae  1inch (OneInchExchange)
+0x11111254369792b2Ca5d084aB5eEA397cA8fa48B  1inch (OneInchExchange)
 ```
 
 ## Polygon Contracts Included
